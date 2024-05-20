@@ -1,0 +1,14 @@
+C:\Users\Marce\OneDrive\Escritorio\Proyecto Final Mate\Proyecto Final Mate\Proyecto Final Mate\obj\Debug\Proyecto Final Mate.csproj.AssemblyReference.cache
+C:\Users\Marce\OneDrive\Escritorio\Proyecto Final Mate\Proyecto Final Mate\Proyecto Final Mate\obj\Debug\Proyecto_Final_Mate.Form1.resources
+C:\Users\Marce\OneDrive\Escritorio\Proyecto Final Mate\Proyecto Final Mate\Proyecto Final Mate\obj\Debug\Proyecto_Final_Mate.Properties.Resources.resources
+C:\Users\Marce\OneDrive\Escritorio\Proyecto Final Mate\Proyecto Final Mate\Proyecto Final Mate\obj\Debug\Proyecto Final Mate.csproj.GenerateResource.cache
+C:\Users\Marce\OneDrive\Escritorio\Proyecto Final Mate\Proyecto Final Mate\Proyecto Final Mate\obj\Debug\Proyecto Final Mate.csproj.CoreCompileInputs.cache
+C:\Users\Marce\OneDrive\Escritorio\Proyecto Final Mate\Proyecto Final Mate\Proyecto Final Mate\bin\Debug\Proyecto Final Mate.exe.config
+C:\Users\Marce\OneDrive\Escritorio\Proyecto Final Mate\Proyecto Final Mate\Proyecto Final Mate\bin\Debug\Proyecto Final Mate.exe
+C:\Users\Marce\OneDrive\Escritorio\Proyecto Final Mate\Proyecto Final Mate\Proyecto Final Mate\bin\Debug\Proyecto Final Mate.pdb
+C:\Users\Marce\OneDrive\Escritorio\Proyecto Final Mate\Proyecto Final Mate\Proyecto Final Mate\obj\Debug\Proyecto Final Mate.exe
+C:\Users\Marce\OneDrive\Escritorio\Proyecto Final Mate\Proyecto Final Mate\Proyecto Final Mate\obj\Debug\Proyecto Final Mate.pdb
+C:\Users\Marce\OneDrive\Escritorio\Proyecto Final Mate\Proyecto Final Mate\Proyecto Final Mate\bin\Debug\Antlr4.Runtime.Standard.dll
+C:\Users\Marce\OneDrive\Escritorio\Proyecto Final Mate\Proyecto Final Mate\Proyecto Final Mate\bin\Debug\NCalc.dll
+C:\Users\Marce\OneDrive\Escritorio\Proyecto Final Mate\Proyecto Final Mate\Proyecto Final Mate\bin\Debug\Antlr4.Runtime.Standard.xml
+C:\Users\Marce\OneDrive\Escritorio\Proyecto Final Mate\Proyecto Final Mate\Proyecto Final Mate\obj\Debug\Proyecto Final Mate.csproj.CopyComplete
